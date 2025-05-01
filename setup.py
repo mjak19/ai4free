@@ -30,6 +30,9 @@ setup(
     install_requires=[
         "tls_client",
         "webscout",
+        "selenium",
+        "g4f",
+        "Helpingai_T2",
     ],
     license='HelpingAI Simplified Universal License',
     project_urls={
