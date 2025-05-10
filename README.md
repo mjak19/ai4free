@@ -60,7 +60,7 @@ AI4Free is a Python library that provides convenient access to a variety of larg
 
 ## Installation
 ```bash
-pip install -U ai4free
+pip install -U ai4free Helpingai_T2 g4f selenium
 ```
 **Use code with caution.**
 
